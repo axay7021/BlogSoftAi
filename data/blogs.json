@@ -1,0 +1,20 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Getting Started with Next.js",
+      "date": "2024-03-26",
+      "excerpt": "Learn how to build modern web applications with Next.js, the React framework for production.",
+      "content": "Next.js is a powerful React framework that enables you to build fast, SEO-friendly websites with great developer experience. In this post, we'll explore the key features that make Next.js an excellent choice for your next web project.",
+      "tags": ["nextjs", "react", "webdev"]
+    },
+    {
+      "id": "2",
+      "title": "The Art of Technical Writing",
+      "date": "2024-03-25",
+      "excerpt": "Discover the essential principles of effective technical writing and documentation.",
+      "content": "Technical writing is a crucial skill in the software development world. Clear, concise, and well-structured documentation can make the difference between a successful project and a confusing mess.",
+      "tags": ["writing", "documentation", "skills"]
+    }
+  ]
+}
