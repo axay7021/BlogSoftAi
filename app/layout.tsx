@@ -57,6 +57,7 @@ export default function RootLayout({
               src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
               crossOrigin="anonymous"
             ></script>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5705279968058278"     crossOrigin="anonymous"></script>
           </>
         )}
       </head>
